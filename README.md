@@ -2,7 +2,7 @@
 
 ### About me:
 
-- Future front-end developer looking for a job 💻
+- Front-end developer 💻
 - self-taught
 
 ### Wanna talk?
