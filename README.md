@@ -2,7 +2,7 @@
 
 ### About me:
 
-- Front-end developer 💻
+- Front-end developer / Web developer 💻
 - self-taught
 
 ### Wanna talk?
