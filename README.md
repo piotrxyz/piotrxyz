@@ -1,10 +1,5 @@
 <h1>Hello there, I'm Piotr 👋</h1>
 
-### About me:
-
-- Front-end developer / Web developer 💻
-- self-taught
-
 ### Wanna talk?
 [<img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 </br>
